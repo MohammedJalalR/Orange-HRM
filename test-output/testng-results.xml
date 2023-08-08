@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-08T16:09:35 IST" name="Suite" finished-at="2023-08-08T16:10:49 IST" duration-ms="74068">
+    <groups>
+    </groups>
+    <test started-at="2023-08-08T16:09:35 IST" name="Test" finished-at="2023-08-08T16:10:49 IST" duration-ms="74068">
+      <class name="Testscripts.TC1">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:Testscripts.TC1@3514a4c0]" started-at="2023-08-08T16:09:35 IST" name="openApp" finished-at="2023-08-08T16:09:41 IST" duration-ms="6147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="Tc1()[pri:0, instance:Testscripts.TC1@3514a4c0]" started-at="2023-08-08T16:09:41 IST" name="Tc1" finished-at="2023-08-08T16:09:53 IST" duration-ms="11945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:Testscripts.TC1@3514a4c0]" started-at="2023-08-08T16:09:53 IST" name="closeApp" finished-at="2023-08-08T16:09:54 IST" duration-ms="701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- Testscripts.TC1 -->
+      <class name="Testscripts.TC2">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:Testscripts.TC2@56cdfb3b]" started-at="2023-08-08T16:09:54 IST" name="openApp" finished-at="2023-08-08T16:10:00 IST" duration-ms="5632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="Tc2()[pri:0, instance:Testscripts.TC2@56cdfb3b]" started-at="2023-08-08T16:10:00 IST" name="Tc2" finished-at="2023-08-08T16:10:12 IST" duration-ms="11967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc2 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:Testscripts.TC2@56cdfb3b]" started-at="2023-08-08T16:10:12 IST" name="closeApp" finished-at="2023-08-08T16:10:12 IST" duration-ms="701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- Testscripts.TC2 -->
+      <class name="Testscripts.TC3">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:Testscripts.TC3@2b91004a]" started-at="2023-08-08T16:10:12 IST" name="openApp" finished-at="2023-08-08T16:10:18 IST" duration-ms="5755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="Tc1()[pri:0, instance:Testscripts.TC3@2b91004a]" started-at="2023-08-08T16:10:18 IST" name="Tc1" finished-at="2023-08-08T16:10:30 IST" duration-ms="12108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:Testscripts.TC3@2b91004a]" started-at="2023-08-08T16:10:30 IST" name="closeApp" finished-at="2023-08-08T16:10:31 IST" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- Testscripts.TC3 -->
+      <class name="Testscripts.TC4">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:Testscripts.TC4@20ccf40b]" started-at="2023-08-08T16:10:31 IST" name="openApp" finished-at="2023-08-08T16:10:37 IST" duration-ms="5777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="Tc1()[pri:0, instance:Testscripts.TC4@20ccf40b]" started-at="2023-08-08T16:10:37 IST" name="Tc1" finished-at="2023-08-08T16:10:49 IST" duration-ms="12041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:Testscripts.TC4@20ccf40b]" started-at="2023-08-08T16:10:49 IST" name="closeApp" finished-at="2023-08-08T16:10:49 IST" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- Testscripts.TC4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
